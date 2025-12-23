@@ -17,7 +17,7 @@ export default function Home() {
             AWS EC2 Jenkins Pipeline...
           </h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            -by kashyap radadiya
+            -by Kashyap Radadiya
           </p>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
